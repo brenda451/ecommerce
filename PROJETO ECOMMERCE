@@ -1,0 +1,8 @@
+PROJETO ECOMMERCE
+
+CLASSE PAGE - serve de base pra praticamente todos as outras paginas do site
+
+ 1 Carrega o header
+ 2 carrega o footer
+ (1 e 2 feitos com metodos construtores e destrutores)
+  
